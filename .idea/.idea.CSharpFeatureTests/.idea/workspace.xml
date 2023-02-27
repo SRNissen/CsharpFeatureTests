@@ -7,14 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b8356a3-95a4-4789-930f-5462ad05400d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DateTimeTest/DateTimeTest.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateTimeTest/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DateTimeTest/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrongTypeTest/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrongTypeTest/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StrongTypeTest/StrongTypeTest.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpFeatureTests/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpFeatureTests/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharpFeatureTests.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpFeatureTests.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,14 +135,7 @@
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/StrongTypeTest/Program.cs</url>
           <line>47</line>
-          <properties documentPath="C:\repos\CsharpFeatureTests\StrongTypeTest\Program.cs" initialLine="47" containingFunctionPresentation="method 'Main'">
-            <startOffsets>
-              <option value="988" />
-            </startOffsets>
-            <endOffsets>
-              <option value="989" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="C:\repos\CsharpFeatureTests\StrongTypeTest\Program.cs" initialLine="47" containingFunctionPresentation="method 'Main'" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
